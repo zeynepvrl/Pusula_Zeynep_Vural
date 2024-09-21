@@ -14,11 +14,11 @@ This project involves analyzing a dataset related to medication side effects and
 
 # Instructions to Run the Code
 * Install Required Libraries: Ensure you have the following Python libraries installed:
-   pip install pandas numpy seaborn matplotlib scikit-learn openpyxl
+   `pip install pandas numpy seaborn matplotlib scikit-learn openpyxl`
    
 * Download the Dataset: Place the dataset file (side_effect_data 1.xlsx) in the appropriate directory. Update the file path in the code if necessary.
 
-* Run the Script: Execute the Python script in your environment. This can be done in a Jupyter notebook, Google Colab, or any Python IDE.
+* Run the Script: Execute the Python script in your environment. This can be done in a Jupyter notebook or Google Colab.
 
 * Review Output: The script will generate various plots that visualize the common medications and their side effects for different chronic illnesses. It will also prepare the dataset for machine learning by handling missing values and encoding categorical data.
 
